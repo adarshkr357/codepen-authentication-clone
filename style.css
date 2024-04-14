@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-image: url("codepen.jpg");
+    background-size: contain;
+    color: white;
+}
+
+button {
+    background-color: rgba(0, 255, 0, 0.75);
+}
+
+a {
+    color: lightblue;
+}
