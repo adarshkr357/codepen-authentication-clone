@@ -21,9 +21,9 @@ def signup():
     return render_template("signup.html")
 
 
-@app.route("/forgot_password")
+@app.route("/forgot-password")
 def forgot():
-    return render_template("forgot.html")
+    return render_template("forgot-password.html")
 
 
 # Backend routes:
