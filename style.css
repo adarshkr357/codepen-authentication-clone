@@ -1,5 +1,5 @@
 body {
-    background: #252527 url(codepen.jpg);
+    background: #252527 url("codepen.jpg");
     background-position: center;
     color: white;
     font-family: "Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma, Sans-Serif;
